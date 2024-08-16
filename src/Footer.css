@@ -1,0 +1,17 @@
+.footer-container {
+  background-color: #965dc2;
+  color: white;
+  width: 100%;
+  position: relative;
+  bottom: 800px;
+  padding: 10px 20px;
+  margin-right: 50px;
+  margin-right: 50px;
+}
+
+.footer-container h5,
+.footer-container h6,
+.footer-container p {
+  color: white;
+  margin: 0;
+}
