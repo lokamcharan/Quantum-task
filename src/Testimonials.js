@@ -28,8 +28,8 @@ export default function Testimonials() {
                 tellus ac, tincidunt fringilla massa.Etiam hedrerit dolor egaet
                 rutrum
               </p>
-              <h6>
-                PAULA WILSON,<span>Media Analyst</span>
+              <h6 style={{color:'lightgreen'}}>
+                PAULA WILSON,<span style={{color:'black'}}>Media Analyst</span>
               </h6>
             </div>
           </div>
